@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub Profile!
 
-<!--
-**Beno04/Beno04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **[Your Name]**, a passionate developer who loves exploring and building cool projects in the world of **[Your Specialization]**. I enjoy working with cutting-edge technologies and continuously learning new skills.
 
-Here are some ideas to get you started:
+## 🔥 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Specialties**: [Ex: Web Development, Data Science, AI, etc.]
+- 💡 **Currently Learning**: [Ex: Rust, Machine Learning, Cloud Computing, etc.]
+- 🌍 **Looking to Collaborate** on: Open-source projects & exciting tech initiatives.
+- ⚡ **Fun Fact**: [Something unique about you!]
+
+## 🛠️ Technologies & Tools
+
+🚀 **Languages**: [Ex: JavaScript, Python, TypeScript, Go]  
+🖥️ **Frameworks**: [Ex: React, Vue, Django, Next.js]  
+💾 **Databases**: [Ex: MySQL, PostgreSQL, MongoDB]  
+🔧 **Tools**: [Ex: Git, Docker, Kubernetes, VS Code]  
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=radical)
+
+## 🌎 Connect With Me
+
+- 🔗 **LinkedIn**: [Your LinkedIn Profile]
+- 🐦 **Twitter/X**: [Your Twitter Handle]
+- 📩 **Email**: [Your Email Address]
+
+Thanks for stopping by! 🚀✨
