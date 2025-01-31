@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-Hi there! I'm **[Your Name]**, a passionate developer who loves exploring and building cool projects in the world of **[Your Specialization]**. I enjoy working with cutting-edge technologies and continuously learning new skills.
+Hi there! I'm **Beno04**, a passionate developer who loves exploring and building cool projects in the world of **IT**. I enjoy working with cutting-edge technologies and continuously learning new skills.
 
 ## 🔥 About Me
 
@@ -11,19 +11,17 @@ Hi there! I'm **[Your Name]**, a passionate developer who loves exploring and bu
 
 ## 🛠️ Technologies & Tools
 
-🚀 **Languages**: [Ex: JavaScript, Python, TypeScript, Go]  
-🖥️ **Frameworks**: [Ex: React, Vue, Django, Next.js]  
-💾 **Databases**: [Ex: MySQL, PostgreSQL, MongoDB]  
-🔧 **Tools**: [Ex: Git, Docker, Kubernetes, VS Code]  
+🚀 **Languages**: [PHP, C#, Dart, PowerShell, Bash JavaScript, Python, HTML, CSS]  
+💾 **Databases**: [MySQL, PostgreSQL, MongoDB]  
+🔧 **Tools**: [Git, Docker, Kubernetes, VS Code]  
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGitHub&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Beno04&show_icons=true&theme=radical)
 
 ## 🌎 Connect With Me
 
-- 🔗 **LinkedIn**: [Your LinkedIn Profile]
-- 🐦 **Twitter/X**: [Your Twitter Handle]
-- 📩 **Email**: [Your Email Address]
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/lucas-benault/]
+- 📩 **Email**: [lucas.benault1@gmail.com]
 
 Thanks for stopping by! 🚀✨
