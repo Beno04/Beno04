@@ -13,7 +13,7 @@ Hi there! I'm **Beno04**, a passionate developer who loves exploring and buildin
 
 🚀 **Languages**: [PHP, C#, Dart, PowerShell, Bash JavaScript, Python, HTML, CSS]  
 💾 **Databases**: [MySQL, PostgreSQL, MongoDB]  
-🔧 **Tools**: [Git, Docker, Kubernetes, VS Code]  
+🔧 **Tools**: [Git, Visual Studio, VS Code]  
 
 ## 📊 GitHub Stats
 
